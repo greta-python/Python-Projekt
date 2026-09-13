@@ -1,0 +1,149 @@
+{
+  "name": "M.Sc. Wirtschaftsinformatik",
+  "regelstudienzeitSemester": 4,
+  "zielNotendurchschnitt": 1.5,
+  "semester": [
+    {
+      "nummer": 1,
+      "startdatum": "2024-10-01",
+      "module": [
+        {
+          "name": "Rechnernetze",
+          "ects": 8,
+          "empfohlenesSemester": 1,
+          "pruefungsleistungen": [
+            {
+              "datum": "2025-01-16",
+              "note": 1.3,
+              "gewichtung": 1.0,
+              "art": "schriftlich",
+              "bezeichnung": "Klausur",
+              "bearbeitungszeitMinuten": 90
+            }
+          ]
+        },
+        {
+          "name": "Betriebssysteme",
+          "ects": 7,
+          "empfohlenesSemester": 1,
+          "pruefungsleistungen": [
+            {
+              "datum": "2025-01-23",
+              "note": 1.7,
+              "gewichtung": 1.0,
+              "art": "schriftlich",
+              "bezeichnung": "Klausur",
+              "bearbeitungszeitMinuten": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nummer": 2,
+      "startdatum": "2025-04-01",
+      "module": [
+        {
+          "name": "Datenstrukturen & Algorithmen",
+          "ects": 5,
+          "empfohlenesSemester": 2,
+          "pruefungsleistungen": [
+            {
+              "datum": "2025-07-14",
+              "note": 1.0,
+              "gewichtung": 1.0,
+              "art": "schriftlich",
+              "bezeichnung": "Klausur",
+              "bearbeitungszeitMinuten": 120
+            }
+          ]
+        },
+        {
+          "name": "Objektorientierte und funktionale Programmierung mit Python",
+          "ects": 5,
+          "empfohlenesSemester": 2,
+          "pruefungsleistungen": [
+            {
+              "datum": "2025-07-21",
+              "note": 1.3,
+              "gewichtung": 1.0,
+              "art": "schriftlich",
+              "bezeichnung": "Klausur",
+              "bearbeitungszeitMinuten": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nummer": 3,
+      "startdatum": "2025-10-01",
+      "module": [
+        {
+          "name": "Datenbanken",
+          "ects": 7,
+          "empfohlenesSemester": 3,
+          "pruefungsleistungen": [
+            {
+              "datum": "2026-01-15",
+              "note": 2.0,
+              "gewichtung": 1.0,
+              "art": "schriftlich",
+              "bezeichnung": "Klausur",
+              "bearbeitungszeitMinuten": 90
+            }
+          ]
+        },
+        {
+          "name": "Software Engineering",
+          "ects": 8,
+          "empfohlenesSemester": 3,
+          "pruefungsleistungen": [
+            {
+              "datum": "2026-01-29",
+              "note": 2.0,
+              "gewichtung": 1.0,
+              "art": "muendlich",
+              "pruefungsdauerMinuten": 20,
+              "pruefer": "Prof. Licht"
+            }
+          ]
+        },
+        {
+          "name": "Data Science",
+          "ects": 5,
+          "empfohlenesSemester": 3,
+          "pruefungsleistungen": [
+            {
+              "datum": "2026-02-05",
+              "note": 1.7,
+              "gewichtung": 1.0,
+              "art": "schriftlich",
+              "bezeichnung": "Essay"
+            }
+          ]
+        },
+        {
+          "name": "Machine Learning",
+          "ects": 5,
+          "empfohlenesSemester": 4,
+          "pruefungsleistungen": [
+            {
+              "datum": "2026-02-19",
+              "note": null,
+              "gewichtung": 1.0,
+              "art": "schriftlich",
+              "bezeichnung": "Hausarbeit"
+            }
+          ]
+        },
+        {
+          "name": "Masterarbeit",
+          "ects": 10,
+          "empfohlenesSemester": 4,
+          "pruefungsleistungen": []
+        }
+      ]
+    }
+  ]
+}
